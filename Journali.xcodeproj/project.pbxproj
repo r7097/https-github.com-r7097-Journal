@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		47AD2C912EAE3F6A00AB2446 /* Journali.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Journali.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		47AD2C912EAE3F6A00AB2446 /* Journali.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Journali.app; path = "/Users/raghadalamoudi/Desktop/Journali/build/Debug-iphoneos/Journali.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				47AD2C932EAE3F6A00AB2446 /* Journali */,
-				47AD2C922EAE3F6A00AB2446 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		47AD2C922EAE3F6A00AB2446 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				47AD2C912EAE3F6A00AB2446 /* Journali.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = 47AD2C882EAE3F6A00AB2446;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 47AD2C922EAE3F6A00AB2446 /* Products */;
+			productRefGroup = 47AD2C882EAE3F6A00AB2446;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
